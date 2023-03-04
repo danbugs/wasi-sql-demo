@@ -1,0 +1,3 @@
+default interface fake-handler {
+    handle: func()
+}

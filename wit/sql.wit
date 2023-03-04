@@ -1,0 +1,5 @@
+default world sql {
+	import readwrite: pkg.readwrite
+
+	export fake-handler: pkg.fake-handler
+}
