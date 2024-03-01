@@ -4,7 +4,7 @@ This repo. contains a demo. of [`wasi-sql`](https://github.com/WebAssembly/wasi-
 
 ## Repository Structure
 
-- `src/`: contains an example guest implementation of the interface.
+- `guest/`: contains an example guest implementation of the interface.
 - `host/`: contains an example host implementation of the interface.
 
 ## Run
